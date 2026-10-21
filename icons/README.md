@@ -1,0 +1,1 @@
+Calculator app icons folder
